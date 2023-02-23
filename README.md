@@ -3,6 +3,5 @@ GUCCI shoppingmall
 
 
 
-![image](https://user-images.githubusercontent.com/68066598/220843052-8f879048-b4d1-4ac8-8039-0b32f84950e8.png)
-![image](https://user-images.githubusercontent.com/68066598/220843285-cbbdfa29-99cb-4fed-ab66-05cda04de01a.png)
-
+![image](https://user-images.githubusercontent.com/68066598/220843395-83bbce6a-136c-4293-acc7-805ecc601a32.png)
+![image](https://user-images.githubusercontent.com/68066598/220843447-705a166b-aba8-4635-8678-4b8309c75b9e.png)
