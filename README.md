@@ -1,6 +1,7 @@
 # shoppingmall
 GUCCI shoppingmall
 
+부트스트랩 사용 익숙해지기
 
 
 ![image](https://user-images.githubusercontent.com/68066598/220843395-83bbce6a-136c-4293-acc7-805ecc601a32.png)
