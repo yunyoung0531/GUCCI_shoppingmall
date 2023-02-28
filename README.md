@@ -2,6 +2,8 @@
 GUCCI shoppingmall
 
 부트스트랩 사용 익숙해지기
+
+
 개발 언어 - HTML, CSS
 
 
